@@ -478,6 +478,7 @@ mark,
 .img-fluid {
   max-width: 100%;
   height: auto;
+  border: 5px solid #000;
 }
 
 .img-thumbnail {
@@ -10423,6 +10424,7 @@ header.masthead .masthead-heading {
   width: 14rem;
   height: 14rem;
   border: 0.5rem solid rgba(0, 0, 0, 0.1);
+  
 }
 .team-member h4 {
   margin-top: 1.5rem;
